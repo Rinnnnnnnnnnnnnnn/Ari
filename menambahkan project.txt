@@ -1,11 +1,10 @@
 Projects
 - membuat website
- * dua
+ * satu
  * dua
  * tiga
 - membuat website
  * A
  * B
- * C
 - membuat website
 - membuat website
